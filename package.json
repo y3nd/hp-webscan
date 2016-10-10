@@ -1,0 +1,25 @@
+{
+  "name": "hp-webscan",
+  "version": "1.0.0",
+  "description": "Package to scan documents with the HP webscan unofficial API)",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y3nd/hp-webscan.git"
+  },
+  "keywords": [
+    "hp, print, printer, scan, webscan, interface, api"
+  ],
+  "author": "y3n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y3nd/hp-webscan/issues"
+  },
+  "homepage": "https://github.com/y3nd/hp-webscan#readme"
+}
